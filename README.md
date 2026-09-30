@@ -19,7 +19,7 @@ Il contient des caractéristiques géométriques cellulaires calculées à parti
 - **Scikit-Learn** : Bibliothèque de Machine Learning utilisée pour la séparation des données, l'entraînement de l'algorithme et le calcul du score.
 - **Environnement de développement** : VS Code sous Linux (Zorin OS), avec Git/GitHub pour le versioning du code.
 
-## 🧠 Modèle et Résultats
+##  Modèle et Résultats
 - **Algorithme choisi :** Arbre de Décision (`DecisionTreeClassifier`).
 - **Pourquoi ce choix ?** C'est un modèle "boîte blanche" (interprétable). Il permet de visualiser exactement quelles questions mathématiques la machine se pose pour arriver à son diagnostic, fonctionnant comme un organigramme médical.
 - **Résultat :** Le modèle a atteint une précision de **93,8 %** sur les données de test (patients jamais vus par l'IA lors de son entraînement). 
